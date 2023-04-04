@@ -25,7 +25,7 @@ To perform multivarient analysis on the given data set.
 
 
 ## INFO:
-![3](https://user-images.githubusercontent.com/118042624/229764477-2bb53b71-4151-4568-8ea6-65a02457162e.png)
+![100](https://user-images.githubusercontent.com/118042624/229766812-145afcc1-4851-4e2f-923f-b31a106bd607.png)
 
 
 ## REMOVING NULL DATA:
